@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tip Calc</string>
+    <string name="prmptAmt">Enter the check amount: $</string>
+    <string name="prmptTip">Enter the tip amount: $</string>
+    <string name="calc">Calculate</string>
+    <string name="clear">Clear</string>
+</resources>
